@@ -1,0 +1,25 @@
+Simple Steps to deploy website with surge
+--------------------
+
+
+Step 1 - One Time Installation
+--------------------
+-) Install Node.JS Software
+-) Open cmd and run the following command: npm i -g surge
+
+
+Step 2 - Deployment into surge
+---------------------
+-) Open Project folder in terminal and run the following command: surge
+-) It will ask you to enter your email and password for the first time to CreateAccount/Login
+-) Enter a unique domain name and press enter, it will deploy your website.
+
+
+Step 3 - Re-deploymemnt after changes
+-----------------------
+-) Create a "CNAME" file in the project folder, write domain name in file which you chose in Step 2
+-) Run the command surge to Redeploy
+
+Happy Coding :)
+
+Author: Umar Ahmad
